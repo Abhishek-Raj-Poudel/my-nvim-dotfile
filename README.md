@@ -1,9 +1,10 @@
 # my_nvim_dotfile
 
-- This is my Dotfiles
 - I just cloned kickstart.nvim
-- It has Gruvbox theme
-- Formatting works on <Space> + f
+- `theme` It has Gruvbox theme
+- `Keybinding`: `leader` + `f` Formatting works on 
+- `Keybinding`: `leader` + `w` + `w` Switching Buffer
+- `Keybinding`: `leader` + `w` + `v` Split Buffer Vertically
+- `Keybinding`: `leader` + `w` + `h` Split Buffer Horizontally
+
 - It has React support .
-# my_nvim_dotfile
-# my-nvim-dotfile
